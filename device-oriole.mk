@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+PRODUCT_HARDWARE := oriole
+
 TARGET_KERNEL_DIR ?= device/google/raviole-kernel
 TARGET_BOARD_KERNEL_HEADERS := device/google/raviole-kernel/kernel-headers
 
